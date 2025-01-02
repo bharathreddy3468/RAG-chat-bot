@@ -1,0 +1,14 @@
+langchain
+langchain-community
+faiss-cpu
+transformers
+bs4
+tensorflow
+torch
+pypdf
+sentence-transformers
+tf-keras
+langchain-huggingface
+pymupdf
+streamlit
+streamlit_chat
